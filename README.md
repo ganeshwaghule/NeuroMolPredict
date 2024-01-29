@@ -24,6 +24,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas requests joblib ipython reportlab
+```
 
 #Usage
 
